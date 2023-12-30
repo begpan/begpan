@@ -3,6 +3,12 @@
 <h1 align="center">Hi 👋, I'm Begum</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
+I am a software developer and I focus on web and mobile application development, especially with my passion for React and React Native technologies. 
+
+I work on various projects and develop projects using JavaScript.
+
+With my constant interest in new technologies and developments, I follow the latest trends of the industry and focus on using these innovations in my work.
+
 🔭 I’m currently working on [twitterClone](https://github.com/begpan/twitterClone)
 
 📫 How to reach me **begumpandora@gmail.com**
